@@ -1,0 +1,1 @@
+ -lmingw32 src/lexbor-2.2.0/liblexbor.dll.a src/lexbor-2.2.0/liblexbor.dll -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

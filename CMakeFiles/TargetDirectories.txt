@@ -1,0 +1,3 @@
+C:/Users/pixil/Desktop/cenv/CMakeFiles/pixel_browser.dir
+C:/Users/pixil/Desktop/cenv/CMakeFiles/edit_cache.dir
+C:/Users/pixil/Desktop/cenv/CMakeFiles/rebuild_cache.dir
