@@ -53,10 +53,10 @@ RM = "C:\Program Files (x86)\CMake\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\pixil\Desktop\cenv
+CMAKE_SOURCE_DIR = C:\Users\pixil\Desktop\PixelBrowser
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\pixil\Desktop\cenv
+CMAKE_BINARY_DIR = C:\Users\pixil\Desktop\PixelBrowser
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -80,14 +80,14 @@ clean: CMakeFiles/pixel_browser.dir/clean
 CMakeFiles/pixel_browser.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pixel_browser.dir\build.make CMakeFiles/pixel_browser.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pixel_browser.dir\build.make CMakeFiles/pixel_browser.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\pixil\Desktop\cenv\CMakeFiles --progress-num=1,2 "Built target pixel_browser"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\pixil\Desktop\PixelBrowser\CMakeFiles --progress-num=1,2 "Built target pixel_browser"
 .PHONY : CMakeFiles/pixel_browser.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/pixel_browser.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\pixil\Desktop\cenv\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\pixil\Desktop\PixelBrowser\CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/pixel_browser.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\pixil\Desktop\cenv\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\pixil\Desktop\PixelBrowser\CMakeFiles 0
 .PHONY : CMakeFiles/pixel_browser.dir/rule
 
 # Convenience name for target.
